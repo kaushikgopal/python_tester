@@ -1,6 +1,13 @@
 
-Test this function like so:
+Setup/Installation
 
 ```
-python -m pytest logic_test.py
+pip3 install -U pytest
+```
+
+
+Running the tests
+
+```
+python3 -m pytest logic_test.py
 ```
